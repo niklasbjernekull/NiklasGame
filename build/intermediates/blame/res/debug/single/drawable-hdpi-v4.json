@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dino_s.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\dino_s.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monster_l2.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\monster_l2.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\candy_peach.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\candy_peach.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\candy_pinkblue.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\candy_pinkblue.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grassblades5.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\grassblades5.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paused.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\paused.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dinobg.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\dinobg.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monster_l1.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\monster_l1.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monster_r2.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\monster_r2.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\purpleflower.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\purpleflower.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monster_r1.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\monster_r1.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\candy_greenblue.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\candy_greenblue.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\redflower.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\redflower.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\candy_blue.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\candy_blue.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\grassjungle.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\grassjungle.png"
+    },
+    {
+        "merged": "D:\\Code\\NiklasGame\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\continue_button.png",
+        "source": "D:\\Code\\NiklasGame\\res\\drawable-hdpi\\continue_button.png"
+    }
+]
